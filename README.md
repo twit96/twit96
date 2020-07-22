@@ -28,16 +28,17 @@ and
 Back-end web development is the next skill I am working on. Python and I go <i>waaay</i> back, and my current goal is to become an experienced full-stack developer. Flask and Bootstrap, I'm coming for you first. 
 
 ### Speaking of Python,
-I also have experience using the Pandas Python Data Analysis library, with which I most recently worked on 
-<a href="https://twit96.github.io/portfolio/star-wars-survey/">a data analysis project with a survey dataset</a>. 
+I also have experience with the Pandas Python Data Analysis library, with which I most recently worked on 
+<a href="https://twit96.github.io/portfolio/star-wars-survey/">a data analysis project with a survey dataset</a>
+. Ready to sprinkle 'Data Science', 'Machine Learning', or maybe even 'Artificial Intelligence' into my resume. 
 
 ### For those who are still interested...
 - In my free time, I enjoy music, art, movies, coffee, and running.
 - I am a dog and cat fanatic (no discrimination here).
-- I studied mathematics in college.
-- I worked on a sod (grass) farm for several years before college; and
-  - Yes that means I know how to drive tractors and operate heavy machinery; but
-  - No that doesn't mean I want to change your oil (respectfully, I must deny).
+- I studied math and computer science in college.
+- I worked on a sod (grass) farm for several years before college, and
+  - Yes, that means I know how to operate tractors and heavy machinery;
+  - No, I (probably) don't want to change your oil.
 - Finally, I just might talk your ear off about marching percussion if you let me.
 
 ## Reach out to me!
