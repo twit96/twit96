@@ -33,8 +33,6 @@ I also have experience with the Pandas Python Data Analysis library, with which 
 
 ### For those who are still interested...
 
-[![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=twit96)](https://github.com/anuraghazra/github-readme-stats)
-
 - In my free time, I enjoy music, art, movies, coffee, and running.
 - I am a dog and cat fanatic (no discrimination here).
 - I studied math and computer science in college.
@@ -42,6 +40,10 @@ I also have experience with the Pandas Python Data Analysis library, with which 
   - Yes, that means I know how to operate tractors and heavy machinery;
   - No, I (probably) don't want to change your oil.
 - Finally, I just might talk your ear off about marching percussion if you let me.
+
+[![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=twit96)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr />
 
 ### Reach out to me!
 With only 2 classes left before graduating college, I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
