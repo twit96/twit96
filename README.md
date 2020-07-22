@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Well hello world!
+### Well hello world!
 My name is Tyler and I am a software developer. I do 
-<a href="https://twit96.github.io/"><b>front-end web development</b></a>
-, and love tinkering with CSS, HTML, and JavaScript.
+<a href="https://twit96.github.io/"><b>front-end web development</b></a>, 
+and love tinkering with CSS, HTML, and JavaScript.
 
 ### Speaking of JavaScript,
 I have experience with the Phaser 3 JavaScript framework, with which I have developed 
@@ -29,8 +29,8 @@ Back-end web development is the next skill I am working on. Python and I go <i>w
 
 ### Speaking of Python,
 I also have experience with the Pandas Python Data Analysis library, with which I most recently worked on 
-<a href="https://twit96.github.io/portfolio/star-wars-survey/">a data analysis project with a survey dataset</a>
-. Ready to sprinkle 'Data Science', 'Machine Learning', or maybe even 'Artificial Intelligence' into my resume. 
+<a href="https://twit96.github.io/portfolio/star-wars-survey/">a data analysis project with a survey dataset</a>. 
+Certified to sprinkle 'Data Science', 'Machine Learning', or maybe even 'Artificial Intelligence' onto my resume. 
 
 ### For those who are still interested...
 - In my free time, I enjoy music, art, movies, coffee, and running.
@@ -44,4 +44,4 @@ I also have experience with the Pandas Python Data Analysis library, with which 
 ## Reach out to me!
 With only 2 classes left before graduating college, I would love freelance or collaborative opportunities in web development, game development, and software development if you think I can be of assistance to you. I work to learn, and love to program.
 
-<a href="https://twit96.github.io/contact/">My contact information can be found here!</a>
+<a href="https://twit96.github.io/contact/">My contact information can be found here.</a>
