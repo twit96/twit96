@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Well hello world!
+## Well hello world!
 My name is Tyler and I am a software developer. I do 
 <a href="https://twit96.github.io/"><b>front-end web development</b></a>, 
 and love tinkering with CSS, HTML, and JavaScript.
@@ -48,7 +48,7 @@ Might mess around and add 'Machine Learning' to my resume.
 
 <hr />
 
-### Reach out to me!
+## Reach out to me!
 With only 2 classes left before graduating college, I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
 <a href="https://twit96.github.io/contact/">My contact information can be found here.</a>
