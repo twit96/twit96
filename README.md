@@ -47,5 +47,5 @@ Might mess around and add 'Machine Learning' to my resume.
 ## Reach out to me!
 With only 2 classes left before graduating college, I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
-<a href="https://twit96.github.io/contact/">My contact information can be found here.</a>
+<a href="https://twit96.github.io/contact/">My <b>contact information</b> can be found here.</a>
 
