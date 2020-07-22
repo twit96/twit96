@@ -25,7 +25,7 @@ and
 <a href="https://github.com/twit96/TankFighter_Phaser3">a Top-Down Shooter Web Minigame</a>.
 
 ### Business in the front(-end), party in the...
-Back-end web development is the next skill I am working on. Python and I go <i>waaay</i> back, and my current goal is to become an experienced full-stack developer. Flask and Bootstrap, I'm coming for you first. 
+Back-end web development is the next skill I am working on. Python and I go <i>way</i> back, and my current goal is to become an experienced full-stack developer. Flask and Bootstrap, I'm coming for you first. 
 
 #### Speaking of Python,
 I also have experience with the Pandas Python Data Analysis library, with which I most recently worked on 
