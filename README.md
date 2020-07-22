@@ -29,8 +29,7 @@ Back-end web development is the next skill I am working on. Python and I go <i>w
 
 ### Speaking of Python,
 I also have experience with the Pandas Python Data Analysis library, with which I most recently worked on 
-<a href="https://twit96.github.io/portfolio/star-wars-survey/">a data analysis project with a survey dataset</a>. 
-Certified to sprinkle 'Data Science', 'Machine Learning', or maybe even 'Artificial Intelligence' onto my resume. 
+<a href="https://twit96.github.io/portfolio/star-wars-survey/">a data analysis project with a survey dataset</a>.
 
 ### For those who are still interested...
 - In my free time, I enjoy music, art, movies, coffee, and running.
