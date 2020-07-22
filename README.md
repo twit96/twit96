@@ -42,9 +42,10 @@ Might mess around and add 'Machine Learning', 'Data Scientist', or 'Artificial I
   - No, I (probably) don't want to change your oil.
 - Finally, I just might talk your ear off about marching percussion if you let me.
 
+<!--
+GitHub Stats (inaccurate counts ATM)
 [![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=twit96&hide=["contribs"]&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Top Languages (No Python on GitHub ATM)
+Top Languages (No Python on GitHub ATM)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twit96)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
