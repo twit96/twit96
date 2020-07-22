@@ -45,5 +45,5 @@ With only 2 classes left before graduating college, I would love freelance or co
 
 <a href="https://twit96.github.io/contact/">My contact information can be found here.</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=twit96)](https://github.com/anuraghazra/github-readme-stats)
 
