@@ -43,7 +43,7 @@ Might mess around and add 'Machine Learning', 'Data Scientist', or 'Artificial I
 - Finally, I just might talk your ear off about marching percussion if you let me.
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
- <img src="https://github-readme-stats.vercel.app/api?username=8bithemant&&show_icons=true&theme=tokyonight"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=twit96&&show_icons=true&theme=dracula"/>
 </a>
 
 ## Reach out to me!
