@@ -42,6 +42,8 @@ Might mess around and add 'Machine Learning', 'Data Scientist', or 'Artificial I
   - No, I (probably) don't want to change your oil.
 - Finally, I just might talk your ear off about marching percussion if you let me.
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=twit96)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Reach out to me!
 With only 2 classes left before graduating college, I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
