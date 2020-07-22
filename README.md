@@ -18,23 +18,23 @@ My name is Tyler and I am a software developer. I do
 <a href="https://twit96.github.io/"><b>front-end web development</b></a>, 
 and love tinkering with CSS, HTML, and JavaScript.
 
-#### Speaking of JavaScript,
+### Speaking of JavaScript,
 I have experience with the Phaser 3 JavaScript framework, with which I have developed 
 <a href="https://github.com/twit96/PharaohsPhury_Phaser3">a 2D Platformer Web Game</a> 
 and 
 <a href="https://github.com/twit96/TankFighter_Phaser3">a Top-Down Shooter Web Minigame</a>.
 
-### Business in the front(-end), party in the...
+#### Business in the front(-end), party in the...
 Back-end web development is the next skill I am working on. Python and I go <i>way</i> back, and my current goal is to become an experienced full-stack developer. Flask and Bootstrap, I'm coming for you first. 
 
-#### Speaking of Python,
+### Speaking of Python,
 I also have experience with the Pandas Python Data Analysis library, with which I most recently worked on 
 <a href="https://twit96.github.io/portfolio/star-wars-survey/">a data analysis project with a survey dataset</a>.
 Might mess around and add 'Machine Learning' to my resume.
 
 <hr />
 
-### For those who are still interested...
+## For those who are still interested...
 
 - In my free time, I enjoy music, art, movies, coffee, and running.
 - I am a dog and cat fanatic (no discrimination here).
