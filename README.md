@@ -32,7 +32,7 @@ I also have experience with the Pandas Python Data Analysis library, with which 
 <a href="https://twit96.github.io/portfolio/star-wars-survey/">a data analysis project with a survey dataset</a>.
 Might mess around and add 'Machine Learning' to my resume.
 
-## For those who are still interested...
+## For those who are interested,
 
 - In my free time, I enjoy music, art, movies, coffee, and running.
 - I am a dog and cat fanatic (no discrimination here).
