@@ -41,6 +41,6 @@ I also have experience with the Pandas Python Data Analysis library, with which 
 - Finally, I just might talk your ear off about marching percussion if you let me.
 
 ## Reach out to me!
-With only 2 classes left before graduating college, I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch with me! 
+With only 2 classes left before graduating college, I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
 <a href="https://twit96.github.io/contact/">My contact information can be found here.</a>
