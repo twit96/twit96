@@ -24,8 +24,6 @@ I have experience with the Phaser 3 JavaScript framework, with which I have deve
 and 
 <a href="https://github.com/twit96/TankFighter_Phaser3">a Top-Down Shooter Web Minigame</a>.
 
-<hr />
-
 ### Business in the front(-end), party in the...
 Back-end web development is the next skill I am working on. Python and I go <i>waaay</i> back, and my current goal is to become an experienced full-stack developer. Flask and Bootstrap, I'm coming for you first. 
 
