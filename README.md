@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Well hello world!
+## Well <i>hello</i> world!
 My name is Tyler and I am a software developer. I do 
 <a href="https://twit96.github.io/"><b>front-end web development</b></a>, 
 and love tinkering with CSS, HTML, and JavaScript.
