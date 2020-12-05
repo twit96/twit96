@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## Well <i>hello</i> world!
-My name is Tyler and I am a software developer. I do 
-<a href="https://twit96.github.io/"><b>front-end web development</b></a>, 
-and love tinkering with CSS, HTML, and JavaScript.
+My name is Tyler and I am a full-stack web developer. I am an experienced front-end web developer,
+and love tinkering with CSS, HTML, and JavaScript on my
+<a href="https://twit96.github.io/"><b>portfolio website</b></a>. 
 
 #### Speaking of JavaScript,
 I have experience with the Phaser 3 JavaScript framework, with which I have developed 
@@ -25,12 +25,10 @@ and
 <a href="https://github.com/twit96/TankFighter_Phaser3">a Top-Down Shooter Web Minigame</a>.
 
 #### Business in the front(-end), party in the...
-Back-end web development is the next skill I am working on. Python and I go <i>way</i> back, and my current goal is to become an experienced full-stack developer. Flask, I'm coming for you first. 
-
-#### Speaking of Python,
-I also have experience with the Pandas Python Data Analysis library, with which I most recently worked on 
-<a href="https://twit96.github.io/projects/star-wars-survey/">a data analysis project with a survey dataset</a>.
-Might mess around and add 'Machine Learning', 'Data Scientist', or 'Artificial Intelligence' to my resume.
+Back-end web development is the next skill I am working on. Most recently, I developed an 
+<a href="https://fall-2020.cs.utexas.edu/cs329e-bulko/wittig/P6/"><b>indie game blog</b></a> 
+from the ground up using PHP and SQL, and my current goal is to become proficient in 
+back-end development.
 
 ## For those who are interested,
 
@@ -42,15 +40,13 @@ Might mess around and add 'Machine Learning', 'Data Scientist', or 'Artificial I
   - No, I (probably) don't want to change your oil.
 - Finally, I just might talk your ear off about marching percussion if you let me.
 
-<!--
 GitHub Stats (inaccurate counts ATM)
 [![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=twit96&hide=["contribs"]&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 Top Languages (No Python on GitHub ATM)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twit96)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 ## Reach out to me!
 With only 2 classes left before graduating college, I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
-<a href="https://twit96.github.io/#contact">My <b>contact information</b> can be found here.</a>
+<a href="https://twit96.github.io/">My <b>contact information</b> can be found here.</a>
 
