@@ -30,16 +30,6 @@ Back-end web development is the next skill I am working on. Most recently, I dev
 from the ground up using PHP and SQL, and my current goal is to become proficient in 
 back-end development.
 
-## For those who are interested,
-
-- In my free time, I enjoy music, art, movies, coffee, and running.
-- I am a dog and cat fanatic (no discrimination here).
-- I studied math and computer science in college.
-- I worked on a sod (grass) farm for several years before college, and
-  - Yes, that means I know how to operate tractors and heavy machinery;
-  - No, I (probably) don't want to change your oil.
-- Finally, I just might talk your ear off about marching percussion if you let me.
-
 ## Reach out to me!
 With only 2 classes left before graduating college, I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
