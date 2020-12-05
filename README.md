@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ## Well <i>hello</i> world!
-My name is Tyler and I am a full-stack web developer. I am an experienced front-end web developer,
-and love tinkering with CSS, HTML, and JavaScript on my
+My name is Tyler and I am a full-stack web developer. I am proficient in front-end web 
+development, and love tinkering with CSS, HTML, and JavaScript on my
 <a href="https://twit96.github.io/"><b>portfolio website</b></a>. 
 
 #### Speaking of JavaScript,
