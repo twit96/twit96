@@ -31,7 +31,7 @@ from the ground up using PHP and SQL, and my current goal is to become proficien
 back-end development.
 
 ## Reach out to me!
-With only 2 classes left before graduating college, I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
+I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
 <a href="https://twit96.github.io/">My <b>contact information</b> can be found here.</a>
 
