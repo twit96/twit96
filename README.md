@@ -23,6 +23,10 @@ I have experience with the Phaser 3 JavaScript framework, with which I have deve
 <a href="https://github.com/twit96/PharaohsPhury_Phaser3">a 2D Platformer Web Game</a> 
 and 
 <a href="https://github.com/twit96/TankFighter_Phaser3">a Top-Down Shooter Web Minigame</a>.
+I've also developed 
+<a href="https://twit96.github.io/tic-tac-toe/">a jQuery Tic-Tac-Toe game</a>
+and 
+<a href="https://twit96.github.io/connect-four/">a vanilla JavaScript Connect Four game</a>.
 
 #### Business in the front(-end), party in the...
 Back-end web development is the next skill I am working on. Most recently, I developed an 
