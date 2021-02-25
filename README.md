@@ -27,7 +27,7 @@ I've also developed a jQuery
 <a href="https://twit96.github.io/tic-tac-toe/">Tic-Tac-Toe game</a>,
 a vanilla JavaScript
 <a href="https://twit96.github.io/connect-four/">Connect Four game</a>,
-and a a jQuery
+and a jQuery
 <a href="https://twit96.github.io/memory-game/"><b>Memory game</b></a>.
 
 #### Business in the front(-end), party in the...
