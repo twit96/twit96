@@ -24,10 +24,10 @@ I have experience with the Phaser 3 JavaScript framework, with which I have deve
 and 
 <a href="https://github.com/twit96/TankFighter_Phaser3">a Top-Down Shooter Web Minigame</a>.
 I've also developed a jQuery
-<a href="https://twit96.github.io/tic-tac-toe/">Tic-Tac-Toe game</a>
-, a vanilla JavaScript
-<a href="https://twit96.github.io/connect-four/">Connect Four game</a>
-, and a a jQuery
+<a href="https://twit96.github.io/tic-tac-toe/">Tic-Tac-Toe game</a>,
+a vanilla JavaScript
+<a href="https://twit96.github.io/connect-four/">Connect Four game</a>,
+and a a jQuery
 <a href="https://twit96.github.io/memory-game/"><b>Memory game</b></a>.
 
 #### Business in the front(-end), party in the...
