@@ -32,7 +32,7 @@ and a jQuery
 
 #### Business in the front(-end), party in the...
 Back-end web development is the next skill I am working on. Most recently, I developed an 
-<a href="https://github.com/twit96/IndieQuest"><b>indie game blog</b></a> 
+<a href="https://github.com/twit96/IndieQuest">indie game blog</a> 
 from the ground up using PHP and SQL, and my current goal is to become proficient in 
 back-end development.
 
