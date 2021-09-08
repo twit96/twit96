@@ -28,9 +28,9 @@ I've also developed a jQuery
 a vanilla JavaScript
 <a href="https://twit96.github.io/connect-four/">Connect Four game</a>,
 a jQuery
-<a href="https://twit96.github.io/memory-game/"><b>Memory game</b></a>,
+<a href="https://twit96.github.io/memory-game/">Memory game</a>,
 and a vanilla JavaScript
-<a href="https://twit96.github.io/minesweeper/"><b>Minesweeper game</b></a>.
+<a href="https://twit96.github.io/minesweeper/">Minesweeper game</a>.
 
 <!-- #### Business in the front(-end), party in the...
 Back-end web development is the next skill I am working on. Most recently, I developed an 
