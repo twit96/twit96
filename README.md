@@ -30,11 +30,11 @@ a vanilla JavaScript
 and a jQuery
 <a href="https://twit96.github.io/memory-game/"><b>Memory game</b></a>.
 
-#### Business in the front(-end), party in the...
+<!-- #### Business in the front(-end), party in the...
 Back-end web development is the next skill I am working on. Most recently, I developed an 
 <a href="https://github.com/twit96/IndieQuest">indie game blog</a> 
 from the ground up using PHP and SQL, and my current goal is to become proficient in 
-back-end development.
+back-end development. -->
 
 ## Reach out to me!
 I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
