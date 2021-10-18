@@ -14,32 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ## Well <i>hello</i> world!
-My name is Tyler and I am a full-stack web developer. I am proficient in front-end web 
-development, and love tinkering with CSS, HTML, and JavaScript on my
+My name is Tyler and I am a full-stack web developer. I love tinkering with CSS, HTML, JavaScript, PHP, and SQL on my
 <a href="https://twit96.github.io/"><b>portfolio website</b></a>. 
 
-#### Speaking of JavaScript,
-I have experience with the Phaser 3 JavaScript framework, with which I have developed 
-<a href="https://github.com/twit96/PharaohsPhury_Phaser3">a 2D Platformer Web Game</a> 
-and 
-<a href="https://github.com/twit96/TankFighter_Phaser3">a Top-Down Shooter Web Minigame</a>.
-I've also developed a jQuery
-<a href="https://twit96.github.io/tic-tac-toe/">Tic-Tac-Toe game</a>,
-a vanilla JavaScript
-<a href="https://twit96.github.io/connect-four/">Connect Four game</a>,
-a jQuery
-<a href="https://twit96.github.io/memory-game/">Memory game</a>,
-and a vanilla JavaScript
-<a href="https://twit96.github.io/minesweeper/">Minesweeper game</a>.
-
-#### Business in the front(-end), party in the...
-Back-end web development is the next skill I am working on. Most recently, I developed an 
-<a href="https://tylerwittig.com/IndieQuest/">indie game blog</a> 
-from the ground up using PHP and SQL, and my current goal is to become proficient in 
-back-end development.
-
 ## Reach out to me!
-I would love freelance or collaborative opportunities in web development, game development, and software development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
+I would love freelance or collaborative opportunities in web development or game development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
 <a href="https://twit96.github.io/">My <b>contact information</b> can be found here.</a>
-
