@@ -22,7 +22,6 @@ I would love freelance or collaborative opportunities in web development or game
 
 <a href="https://twit96.github.io/">My <b>contact information</b> can be found here.</a>
 
-<hr />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=twit96&show_icons=true&theme=tokyonight)
+<!-- <hr /> -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=twit96&show_icons=true&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twit96&theme=tokyonight) -->
