@@ -24,6 +24,5 @@ I would love freelance or collaborative opportunities in web development or game
 
 <hr />
 
-![](https://visitor-badge.laobi.icu/badge?page_id=twit96.twit96)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=twit96&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twit96&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twit96&theme=tokyonight) -->
