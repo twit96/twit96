@@ -21,3 +21,11 @@ My name is Tyler and I am a full-stack web developer. I love tinkering with CSS,
 I would love freelance or collaborative opportunities in web development or game development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
 <a href="https://twit96.github.io/">My <b>contact information</b> can be found here.</a>
+
+<hr />
+### Profile Views
+![](https://visitor-badge.laobi.icu/badge?page_id=twit96.twit96)
+### Profile Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=twit96&show_icons=true&theme=tokyonight)
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twit96&theme=tokyonight)
