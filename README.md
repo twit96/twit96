@@ -25,7 +25,3 @@ I would love freelance or collaborative opportunities in web development or game
 <hr />
 
 <img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,48acf0,6201ff&hide_border=true&border_radius=3px" />
-
-<!-- Visitors Badge -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=$twit96.$twit96" />
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=$twit96.$twit96) -->
