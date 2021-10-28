@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img alt="Tyler Wittig Card" src="./site-card.png" />
+
 ## Well <i>hello</i> world!
 
 My name is Tyler and I am a full-stack web developer. I love tinkering with CSS, HTML, JavaScript, PHP, and SQL on my
@@ -26,13 +28,7 @@ I would love freelance or collaborative opportunities in web development or game
 <!-- Top Languages -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twit96&&hide=html,jupyter%20notebook&hide_border=true&layout=compact&theme=tokyonight) -->
 
-<!-- README Stats -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight" /> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&title_color=148bdb&text_color=06632c&icon_color=06632c&bg_color=dedede&hide_border=true&border_radius=15px" /> -->
-<p align="center">
-  <img alt="Tyler Wittig Card" src="./site-card.png" />
-  <img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,48acf0,6201ff&hide_border=true&border_radius=3px" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,48acf0,6201ff&hide_border=true&border_radius=3px" />
 
 <!-- Visitors Badge -->
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=$twit96.$twit96" /> -->
