@@ -27,7 +27,7 @@ I would love freelance or collaborative opportunities in web development or game
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twit96&&hide=html,jupyter%20notebook&hide_border=true&layout=compact&theme=tokyonight) -->
 
 <!-- README Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=twit96&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=twit96&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
 
 <!-- Visitors Badge -->
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=$twit96.$twit96" /> -->
