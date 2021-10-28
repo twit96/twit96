@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Tyler Wittig Card" src="./site-card.png" />
-
 ## Well <i>hello</i> world!
 
 My name is Tyler and I am a full-stack web developer. I love tinkering with CSS, HTML, JavaScript, PHP, and SQL on my
