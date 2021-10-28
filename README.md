@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Well <i>hello</i> world!</h2>
+<h3 align="center">Well <i>hello</i> world!</h3>
 <p align="center">
   My name is Tyler and I am a full-stack web developer.<br />
   <a href="twit96.github.io/">Website</a>
