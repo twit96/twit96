@@ -29,7 +29,10 @@ I would love freelance or collaborative opportunities in web development or game
 <!-- README Stats -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight" /> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&title_color=148bdb&text_color=06632c&icon_color=06632c&bg_color=dedede&hide_border=true&border_radius=15px" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,48acf0,6201ff&hide_border=true&border_radius=3px" />
+<p align="center">
+  <img alt="Tyler Wittig Card" src="./site-card.png" />
+  <img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,48acf0,6201ff&hide_border=true&border_radius=3px" />
+</p>
 
 <!-- Visitors Badge -->
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=$twit96.$twit96" /> -->
