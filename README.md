@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Well <i>hello</i> world!
+## Well <i>hello</i> world!
 My name is Tyler and I am a full-stack web developer. I love tinkering with CSS, HTML, JavaScript, PHP, and SQL on my [portfolio website](https://twit96.github.io/).
 
 I'm looking for freelance or collaborative opportunities in web development or game development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
