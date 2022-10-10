@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Well <i>hello</i> world!
-My name is Tyler and I am a full-stack web developer. I love tinkering with CSS, HTML, JavaScript, PHP, and SQL on my
-<a href="https://twit96.github.io/"><b>portfolio website</b></a>.
-
-I'm looking for freelance or collaborative opportunities in web development or game development. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
+My name is Tyler and I am a full-stack web developer. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
 <a href="https://twit96.github.io/">My <b>contact information</b> can be found here.</a>
 
