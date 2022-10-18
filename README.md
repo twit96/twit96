@@ -27,4 +27,4 @@ My name is Tyler and I am a full-stack web developer. I work to learn, and love 
 
 <hr />
 
-<img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,48acf0,6201ff&hide_border=true&border_radius=3px" />
+<img src="https://github-readme-stats.vercel.app/api?username=twit96&count_private=true&include_all_commits=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=15,48acf0,148bdb&hide_border=true&border_radius=3px" />
