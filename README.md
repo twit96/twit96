@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- Title Image -->
 <p align="center">
   <a href="https://twit96.github.io/">
-    <img border="0" alt="Tyler Wittig - Web Developer - Title Card" src="./title-card.png">
+    <img border="0" alt="Tyler Wittig | Full-Stack Developer" src="https://tylerwittig.com/img/og-image.png">
   </a>
 </p>
 
