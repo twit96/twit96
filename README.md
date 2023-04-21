@@ -13,13 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Title Image -->
-<p align="center">
-  <a href="https://twit96.github.io/">
-    <img border="0" alt="Tyler Wittig | Full-Stack Developer" src="https://tylerwittig.com/img/og-image.png">
-  </a>
-</p>
-
 ## Well <i>hello</i> world!
 My name is Tyler and I am a full-stack web developer. I work to learn, and love to program. If you see a place for me in your project, feel free to get in touch! 
 
