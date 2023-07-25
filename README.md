@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Astro, React**
 - 👨‍💻 All of my projects and blog posts can be found at [tylerwittig.com](https://tylerwittig.com/)
 - 📫 Email me at **tylerwittig.work@gmail.com**
-- ⚡ Fun fact **When I am not programming, I am farming with my dad**
+- 🚜 When I am not programming, I am farming with my dad
 
 
 ### Connect with me:
