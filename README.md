@@ -3,9 +3,9 @@
 
 ## My name is Tyler and I am a Full-Stack Developer
 
-- 🔭 I’m currently working on [Gag Combos Info](gagcombos.info)
+- 🔭 I’m currently working on [Gag Combos Info](https://gagcombos.info/)
 - 🌱 I’m currently learning **Astro, React**
-- 👨‍💻 All of my projects and blog posts can be found at [tylerwittig.com](tylerwittig.com)
+- 👨‍💻 All of my projects and blog posts can be found at [tylerwittig.com](https://tylerwittig.com/)
 - 📫 Email me at **tylerwittig.work@gmail.com**
 - ⚡ Fun fact **When I am not programming, I am farming with my dad**
 
