@@ -13,8 +13,8 @@
 ### Connect with me:
 
 <a href="https://codepen.io/twit96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="twit96" height="30" width="40" /></a>
-<a href="https://twitter.com/tyler_wittig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyler_wittig" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tylerwittig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tylerwittig" height="30" width="40" /></a>
+<a href="https://twitter.com/tyler_wittig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyler_wittig" height="30" width="40" /></a>
 
 
 ### Languages and Tools:
