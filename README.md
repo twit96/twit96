@@ -4,6 +4,8 @@ My name is Tyler and I am a full-stack developer. I work to learn, and love to p
 
 <a href="https://twit96.github.io/">My <b>contact information</b> can be found here.</a>
 
+<hr />
+
 <!--
 # Well <i>hello</i> world!
 
