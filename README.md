@@ -4,7 +4,7 @@ My name is Tyler and I am a full-stack developer. If you see a place for me in y
 
 My contact information can be found here: [card.tylerwittig.com](https://card.tylerwittig.com/)
 
-<br />
+<hr />
 
 <picture>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=twit96&theme=github-dark-blue&border_radius=6&card_width=300&card_height=150&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
