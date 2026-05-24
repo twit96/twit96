@@ -6,6 +6,6 @@ My name is Tyler and I am a full-stack developer. I work to learn, and love to p
 
 <hr />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=twit96&hide_border=true&border_radius=16&card_width=250&background=F7F5F3&hide_current_streak=true&hide_longest_streak=true" alt="twit96" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=twit96&hide_border=true&border_radius=16&card_width=250&background=000000&hide_current_streak=true&hide_longest_streak=true" alt="Contribution Stats for twit96" />
 
-<img src="https://komarev.com/ghpvc/?username=twit96&label=Profile%20views&color=8c775a&style=flat" alt="Tyler's GitHub Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=twit96&label=Profile%20views&color=8c775a&style=flat" alt="Total GitHub Profile Views for twit96" />
