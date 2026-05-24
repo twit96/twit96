@@ -7,7 +7,7 @@ My contact information can be found here: [card.tylerwittig.com](https://card.ty
 <hr />
 
 <picture>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=twit96&theme=javascript-dark&hide_border=true&border_radius=6&card_width=300&card_height=150&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=twit96&theme=github-dark&hide_border=true&border_radius=6&card_width=300&card_height=150&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 </picture>
 
 <br />
